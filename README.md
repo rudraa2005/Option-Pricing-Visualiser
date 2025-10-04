@@ -15,7 +15,7 @@ A clean Python tool to **compute and visualise European call option pricing** wi
 
 ## ⚡ Quick Start
 ```bash
-git clone https://github.com/your-username/option-pricing-visualiser.git
+git clone https://github.com/rudraa2005/option-pricing-visualiser.git
 cd option-pricing-visualiser
 pip install -r requirements.txt
 python main.py
